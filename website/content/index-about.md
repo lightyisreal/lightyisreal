@@ -1,0 +1,1 @@
+I'm a Minecraft Bedrock Edition enthusiast, a Bloons TD enjoyer, a rhythm game player, and a developer. I'm kind towards people.

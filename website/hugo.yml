@@ -1,0 +1,135 @@
+baseURL: https://lighty.tech/
+languageCode: en-us
+title: Lighty
+theme: focus
+enableRobotsTXT: true
+module:
+  mounts:
+    - source: static/images
+      target: assets/images
+
+outputs:
+  home:
+    - "html" # Default
+    - "rss" # Default
+  page:
+    - "html" # Default
+    - "rss"
+
+# services:
+#   disqus:
+#     shortname: lightyisreal
+
+menu:
+  main:
+    - identifier: posts
+      url: /posts/
+      pre: <span data-feather='book'></span>
+      post: ""
+      name: Posts
+      weight: 1
+    - identifier: portfolio
+      url: /portfolio/
+      pre: <span data-feather='code'></span>
+      post: ""
+      name: Portfolio
+      weight: 2
+    - identifier: faq
+      url: /faq/
+      pre: <span data-feather='help-circle'></span>
+      post: ""
+      name: FAQ
+      weight: 3
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      pre: <span data-feather='tag'></span>
+      weight: 4
+    - identifier: github
+      url: https://github.com/lightyisreal
+      weight: 5
+      pre: <span data-feather='github'></span>
+    - identifier: rss
+      url: /index.xml
+      weight: 6
+      pre: <span data-feather='rss'></span>
+params:
+  avatarURL: /images/lighty.webp
+  bannerURL: /images/banner.webp
+  # Your pronouns. You can also fetch them from external providers:
+  # - PronounDB: "pronoundb:your_pronoundb_id"
+  # - pronouns.page: "pronouns.page:your_username"
+  pronouns: "pronouns.page:lightyisreal"
+  # pronouns: "pronoundb:66291579939878d2292a1cde"
+  # The flag shown after the pronouns. Like for the entire website, there's also MOREmoji support. For those, use the following format: ":moremoji:emoji_name:"
+  flag: 🏳️‍🌈
+  avatarSize: ""
+  description: Be yourself and people will like you :3
+  showPostsOnHomePage: recent
+  customHeadHTML: ""
+  showSiteTitle: true
+  # togglePreviousAndNextButtons: true
+  metaKeywords:
+    - lightyisreal
+    - developer
+    - blog
+  enableEmoji: true
+  footer: Lighty
+  # accentColor: "#e39d42"
+  accentColor: "#C1ACFF"
+  theming:
+    dark:
+      primary: "20, 19, 24"
+      secondary: "#211f24"
+      tertiary: "#494458"
+      text: "white"
+    light:
+      primary: "222, 216, 224"
+      secondary: "#f2ecf4"
+      tertiary: "#615b71"
+      text: "black"
+  socialIcons:
+    - name: YouTube
+      url: https://youtube.com/@lightyisreal
+    - name: Discord
+      url: /discord
+    - name: Mastodon
+      url: https://mastodon.social/@lightyisreal
+    - name: Matrix
+      url: https://matrix.to/#/#lighty:matrix.org
+    - name: Twitch
+      url: https://twitch.tv/lightyisreal
+    - name: Twitter
+      url: https://twitter.com/lightyisreal
+    - name: TikTok
+      url: https://tiktok.com/@lightyisreal
+  homepageButtons:
+    - name: Frequently Asked Questions
+      url: /faq
+    - name: I have a YouTube channel!
+      url: https://youtube.com/@lightyisreal
+      newTab: true
+    - name: Join my Discord server
+      url: /discord
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: false
