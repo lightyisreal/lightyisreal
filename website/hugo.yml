@@ -96,7 +96,7 @@ params:
     - name: Mastodon
       url: https://mastodon.social/@lightyisreal
     - name: Matrix
-      url: https://matrix.to/#/#lighty:matrix.org
+      url: https://matrix.to/#/@lightyisreal:envs.net
     - name: Twitch
       url: https://twitch.tv/lightyisreal
     - name: Twitter
