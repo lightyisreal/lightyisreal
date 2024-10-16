@@ -2,6 +2,7 @@
 title: 'Leaving Twitter'
 description: "In this article, I will rant about my Twitter experience and why I'm \"leaving\" the app for good."
 date: 2024-05-29
+lastmod: 2024-10-16
 image: /images/posts/2024/05/twitter_new_logo.webp
 image_description: Twitter's new logo since the July 23, 2023 rebrand
 type: 'post'
@@ -37,4 +38,4 @@ My account keeps getting followed by some random bot accounts, and most of them 
 
 I feel like these are the main issues that plague Twitter and its community. It's too much for me to stand on, and I don't want to be stressed for a platform that doesn't even want to improve. From now on, I will only use Twitter to share articles like these or any new videos I'll upload on YouTube. I have also uninstalled the app to prevent useless notifications from people I'm not even interested in (those bot accounts, I mean), but to also make sure I won't be addicted to this thing ever again.
 
-If you feel like you want something similar to Twitter, you should check out Mastodon. Mastodon is a decentralized social network, meaning there are multiple instances of it. These instances can be connected to each other, which is great. I have an account there as well, if you want to follow me there.
+If you feel like you want something similar to Twitter, you should check out Mastodon. Mastodon is a decentralized social network, meaning there are multiple instances of it. These instances can be connected to each other, which is great. I have an account there as well, if you want to follow me there. Before you think that Mastodon is a Twitter clone, it's not. It's a different platform with a different community. I talked more about this in this [Mastodon post](https://mastodon.social/@lightyisreal/113300241010512431).
