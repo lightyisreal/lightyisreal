@@ -109,8 +109,8 @@ params:
     - name: I have a YouTube channel!
       url: https://youtube.com/@lightyisreal
       newTab: true
-    - name: Join my Discord server
-      url: /discord
+    # - name: Join my Discord server
+    #   url: /discord
 privacy:
   disqus:
     disable: false
