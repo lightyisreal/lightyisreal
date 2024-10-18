@@ -94,7 +94,7 @@ params:
     - name: Discord
       url: /discord
     - name: Mastodon
-      url: https://mastodon.social/@lightyisreal
+      url: https://wetdry.world/@lightyisreal
     - name: Matrix
       url: https://matrix.to/#/@lightyisreal:envs.net
     - name: Twitch
