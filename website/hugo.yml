@@ -60,7 +60,7 @@ params:
   # - PronounDB: "pronoundb:your_pronoundb_id"
   # - pronouns.page: "pronouns.page:your_username"
   # pronouns: "pronouns.page:lightyisreal"
-  pronouns: "he/any"
+  pronouns: "it/he/any"
   # pronouns: "pronoundb:66291579939878d2292a1cde"
   # The flag shown after the pronouns. Like for the entire website, there's also MOREmoji support. For those, use the following format: ":moremoji:emoji_name:"
   flag: 🏳️‍🌈
