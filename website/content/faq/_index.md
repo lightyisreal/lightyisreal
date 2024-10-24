@@ -18,7 +18,7 @@ Yes, I [came out](/gay) on June 1st, 2024.
 
 **What pronouns do you go by?**
 
-I go by `he/any` pronouns. [*Click here to check my Pronouns.page card.*](https://en.pronouns.page/@lightyisreal)
+I go by `{{< param Pronouns >}}` pronouns.
 
 **What's your personality type? / Why are you so kind?**
 
