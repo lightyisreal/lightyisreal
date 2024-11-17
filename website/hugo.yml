@@ -55,7 +55,7 @@ menu:
       pre: <span data-feather='rss'></span>
 params:
   avatarURL: /images/lighty.webp
-  bannerURL: /images/banner.webp
+  bannerURL: /images/mc_banner.webp
   # Your pronouns. You can also fetch them from external providers:
   # - PronounDB: "pronoundb:your_pronoundb_id"
   # - pronouns.page: "pronouns.page:your_username"
