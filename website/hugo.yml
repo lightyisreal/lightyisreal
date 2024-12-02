@@ -95,7 +95,7 @@ params:
     - name: Mastodon
       url: "https://wetdry.world/@lightyisreal"
     - name: Matrix
-      url: "https://matrix.to/#/@lightyisreal:envs.net"
+      url: "https://matrix.to/#/@lightyisadorable:matrix.org"
     - name: Twitch
       url: "https://twitch.tv/lightyisreal"
     - name: Twitter
