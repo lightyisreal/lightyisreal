@@ -96,12 +96,6 @@ params:
       url: "https://wetdry.world/@lightyisreal"
     - name: Matrix
       url: "https://matrix.to/#/@lightyisadorable:matrix.org"
-    - name: Twitch
-      url: "https://twitch.tv/lightyisreal"
-    - name: Twitter
-      url: "https://twitter.com/lightyisreal"
-    - name: TikTok
-      url: "https://tiktok.com/@lightyisreal"
   homepageButtons:
     - name: Frequently Asked Questions
       url: /faq
