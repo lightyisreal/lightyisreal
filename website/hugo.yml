@@ -97,11 +97,11 @@ params:
     - name: Matrix
       url: "https://matrix.to/#/@lightyisadorable:matrix.org"
   homepageButtons:
-    - name: Frequently Asked Questions
-      url: /faq
-    - name: I have a YouTube channel!
-      url: "https://youtube.com/@lightyisreal"
-      newTab: true
+    # - name: Frequently Asked Questions
+    #   url: /faq
+    # - name: I have a YouTube channel!
+    #   url: "https://youtube.com/@lightyisreal"
+    #   newTab: true
     # - name: Join my Discord server
     #   url: /discord
 privacy:
