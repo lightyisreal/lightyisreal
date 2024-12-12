@@ -12,10 +12,6 @@ I live in Italy, so my timezone is GMT+2.
 
 I'm 18. I was born on September 23rd, 2006.
 
-**Are you gay?**
-
-Yes, I [came out](/gay) on June 1st, 2024.
-
 **What pronouns do you go by?**
 
 I go by `{{< param Pronouns >}}` pronouns.
@@ -27,14 +23,6 @@ My personality type is INFP-T, so if things make sense, that's why. [*Click here
 **How did you become so good at coding?**
 
 I started when I was younger. I wanted to code a UI for my SkyBlock server and I did just that. After that, I learned how to code Discord bots in JavaScript because MEE6 locked many things behind a paywall. About 2 years later, I wanted to make this my job, so I started getting serious with it.
-
-**Can you work for free?**
-
-While I don't care about money and have people's interest in mind, I need some sort of income until I get a stable job. If you're unsure about my coding skills, check out my [portfolio](/portfolio/), you won't be disappointed.
-
-**Can we collab?**
-
-Hit me up on [Discord](https://lighty.tech/discord) and we can talk about it. Keep in mind that I'm not always available.
 
 **What games do you play?**
 
