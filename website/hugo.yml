@@ -92,8 +92,10 @@ params:
   socialIcons:
     - name: YouTube
       url: "https://youtube.com/@lightyisreal"
-    - name: Mastodon
+    - name: Fediverse
       url: "https://wetdry.world/@lightyisreal"
+    - name: Bluesky
+      url: "https://bsky.app/profile/lighty.tech"
     - name: Matrix
       url: "https://matrix.to/#/@lightyisadorable:matrix.org"
   homepageButtons:
