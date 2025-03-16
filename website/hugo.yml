@@ -1,4 +1,4 @@
-baseURL: https://lighty.tech/
+baseURL: https://pillow.gay/
 languageCode: en-us
 title: Lighty
 theme: focus
@@ -95,9 +95,9 @@ params:
     - name: Fediverse
       url: "https://wetdry.world/@lightyisreal"
     - name: Bluesky
-      url: "https://bsky.app/profile/lighty.tech"
+      url: "https://bsky.app/profile/pillow.gay"
     - name: Matrix
-      url: "https://matrix.to/#/@lightyisadorable:matrix.org"
+      url: "https://matrix.to/#/@lighty:floof.company"
   homepageButtons:
     # - name: Frequently Asked Questions
     #   url: /faq
