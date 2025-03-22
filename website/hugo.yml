@@ -63,7 +63,7 @@ params:
   pronouns: "any"
   # pronouns: "pronoundb:66291579939878d2292a1cde"
   # The flag shown after the pronouns. Like for the entire website, there's also MOREmoji support. For those, use the following format: ":moremoji:emoji_name:"
-  flag: 🏳️‍🌈
+  flag: ":moremoji:nonbinary: 🏳️‍🌈"
   avatarSize: ""
   description: Be yourself and people will like you :3
   showPostsOnHomePage: recent
